@@ -1,5 +1,7 @@
 Manually installed dependencies:
 
+    taskwarrior - command line task manager
+
 	zathura - minimalistic pdf viewer
 	
 	vim-plug - lightweight vim plugin manager
