@@ -8,6 +8,12 @@ Manually installed dependencies:
 
    * zathura - minimalistic pdf viewer
 	
+   * zotero - pdf library manager/personal research assistant
+        * Analogues:
+            * I, Librarian
+            * BibTex
+            * JabRef 
+	
    * vim-plug - lightweight vim plugin manager
         * installed in .vim/autoload/
 		* config in .vimrc	
