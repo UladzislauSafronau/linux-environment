@@ -1,5 +1,7 @@
 Manually installed dependencies:
 
+   * Flameshot - screenshot util 
+
    * ODB Studio - open source video recorder/streamer
    
    * Shotcut - open source video editor
